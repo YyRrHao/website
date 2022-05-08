@@ -1,3 +1,45 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Yiran Hao Website"
+baseURL = "https://yyrrhao.github.io/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Ithaca, NY"
+email = "yh494@cornell.edu"
+favicon = "/favicon.ico"
+firstName = "Yiran"
+lastName = "HAO"
+phone = "111-111-1111"
+profileImage = "img/profile_picture.png"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = true
+showPublications = false
+showQr = false
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/yiran-hao-b61041188/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/YyRrHao"
+name = "GitHub"
+
+
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

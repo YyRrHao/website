@@ -1,0 +1,30 @@
+[
+    {
+        "role":"Summer Intern",
+        "company":"Nomura",
+        "link": "https://www.nomura.com/",
+        "summary":"I am super excited about the coming summer at Nomura, where I will be joining as a risk management intern at New York Office.",
+        "range":"June 2022 - Aug 2022"
+    },
+    {
+        "role":"Summer Intern",
+        "company":"China Great Wall Securities",
+        "link": "http://www.cgws.com/cczq/greatWall/",
+        "summary":"I joined the company as Asset Managament Intern, where I applied the risk management, portfolio management and asset allocation skills to help optimize out client's return",
+        "range":"July 2020 - Aug 2020"
+    },
+    {
+        "role":"Co-op Student Trainee",
+        "company":"HSBC",
+        "link": "https://www.hsbc.com.hk/",
+        "summary":"I did an 6 months long Co-op program at HSBC Hong Kong. I worked in the Financial Institution Credit Risk Team. My responsibility lies in supporting the request approval, annual risk review, and internal team process automation.",
+        "range":"Jan 2020 - June 2020"
+    },
+    {
+        "role":"Summer Intern",
+        "company":"Deloitte",
+        "link": "https://www2.deloitte.com/global/en.html?icid=site_selector_global",
+        "summary":"At Deloitte, I joined the Risk Advisory, Environmental, Social and Governance (ESG) group as the summer intern at Beijing Office. I worked with the team to provide ESG solutions for our clients and helped them become sustainable.",
+        "range":"May 2018 - July 2018"
+    }
+]

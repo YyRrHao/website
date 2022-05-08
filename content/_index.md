@@ -1,0 +1,1 @@
+I am a graduate student majored in Financial Engineering at Cornell University. I am passionate about quantitative finance, risk management, and asset management.

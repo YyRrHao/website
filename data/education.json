@@ -1,0 +1,26 @@
+[
+    {
+        "school":"Cornell University",
+        "link":"https://www.cornell.edu/",
+        "degree":"Master of Engineering",
+        "major":"Department: Operation Research & Information Engineering ",
+        "notes":"Major: Financial Engineering, GPA: 4.00",
+        "range":"2021.9 - 2022.12"
+    },
+    {
+        "school":"City University of Hong Kong",
+        "link":"https://www.cityu.edu.hk/",
+        "degree":"Bachelor of Business Administration",
+        "major":"Major: Accountancy, GPA: 3.86",
+        "notes": "Honor: HKSAR Government Scholarship Recipient",
+        "range":"2017.9 - 2021.6"
+    },
+    {
+        "school":"Boston University",
+        "link":"https://www.bu.edu/",
+        "degree":"Summer Exchange Student",
+        "major": "Multi-variate Calculus",
+        "notes": "Probability & Statistics",
+        "range":"2019.6 - 2019.8"
+    }
+]

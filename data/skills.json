@@ -1,0 +1,29 @@
+[
+    {
+        "grouping":"Technical Skills",
+        "skills":[
+
+            {"name": "python"},
+            {"name": "rstudio"},
+            {"name": "VBA"}
+        ]
+        
+    },
+    {
+        "grouping":"Relevant Courses",
+        "skills":[ 
+            {"name":"Optimization"},
+            {"name":"OR Tools for Financial Engineering"},
+            {"name":"Derivatives Securities"},
+            {"name":"Monte Carlo Simulation"},
+            {"name":"Applied Time Series Analysis"}
+        ]
+    },
+    
+    {
+        "grouping":"Activities & Interest",
+        "skills": [
+            {"name":"Clarinet, Piano, Tennis"}]
+
+    }
+  ]
